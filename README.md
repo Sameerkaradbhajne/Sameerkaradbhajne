@@ -26,10 +26,10 @@
 <h2>🚀 About Me</h2>
 <table border="0">
   <tr>
-    <td width="30%" valign="center">
-      <img src="profile.jpeg" width="100%" alt="Sameer Karadbhajne" style="border-radius: 50%;" />
+    <td width="250" align="center" valign="center">
+      <img src="profile.png" width="200" alt="Sameer Karadbhajne" style="border-radius: 50%;" />
     </td>
-    <td width="70%" valign="top">
+    <td valign="top">
       <h3>Hi there, I'm Sameer! 👋</h3>
       <p>
         I am a driven developer specializing in <b>Artificial Intelligence, Machine Learning, and Cloud Computing</b>. I love building agentic AI systems and secure financial platforms that solve real-world problems. My passion involves transforming complex data into actionable insights and creating autonomous tools.
