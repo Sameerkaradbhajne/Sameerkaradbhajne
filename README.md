@@ -18,8 +18,7 @@
   <tr>
     <td width="350px" align="center" valign="center">
       <!-- High Quality Illustration -->
-      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-       <!-- Fallback or alternative: <img src="https://media.giphy.com/media/L1R1TVTh2uylgL8h0l/giphy.gif" width="100%"/> -->
+      <img src="https://raw.githubusercontent.com/kaopanbo/kaopanbo/master/assets/programmer.gif" alt="Coding Animation" width="100%"/>
     </td>
     <td width="500px" valign="top">
       <h2>🚀 About Me</h2>
@@ -70,10 +69,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Sameerkaradbhajne&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321" height="180" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerkaradbhajne&layout=compact&theme=radical&hide_border=true&bg_color=141321&langs_count=8" height="180" />
   </p>
-  
-  <!-- Activity Graph -->
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameerkaradbhajne&bg_color=141321&color=fe428e&line=fe428e&point=FFFFFF&area=true&hide_border=true" width="95%" />
 </div>
 
 <br/>
