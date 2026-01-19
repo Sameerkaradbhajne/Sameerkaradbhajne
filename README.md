@@ -1,10 +1,8 @@
 
-<!-- Banner Section -->
 <div align="center">
-  <img src="tech_banner.png" width="100%" alt="Tech Banner" style="border-radius: 10px;"/>
-  <br/>
-  <h1>Sameer Karadbhajne</h1>
-  <h3>Tech Enthusiast | B.Tech CSE Student @ SIT Nagpur</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=300&section=header&text=Sameer%20Karadbhajne&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Tech%20Enthusiast%20|%20B.Tech%20CSE%20Student%20@%20SIT%20Nagpur&descAlignY=60&descAlign=50" width="100%" alt="Header"/>
+  
+  <br />
   
   <!-- Social Media Badges -->
   <p>
