@@ -27,7 +27,7 @@
 <table border="0">
   <tr>
     <td width="250" align="center" valign="center">
-      <img src="profile.png" width="200" alt="Sameer Karadbhajne" style="border-radius: 50%;" />
+      <img src="profile.jpeg" width="200" alt="Sameer Karadbhajne" style="border-radius: 50%;" />
     </td>
     <td valign="top">
       <h3>Hi there, I'm Sameer! 👋</h3>
