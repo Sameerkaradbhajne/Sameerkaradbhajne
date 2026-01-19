@@ -17,8 +17,8 @@
 <table border="0" align="center">
   <tr>
     <td width="350px" align="center" valign="center">
-      <!-- High Quality Illustration -->
-      <img src="https://raw.githubusercontent.com/kaopanbo/kaopanbo/master/assets/programmer.gif" alt="Coding Animation" width="100%"/>
+      <!-- User Profile Image -->
+      <img src="./profile.png" alt="Sameer" width="100%" style="border-radius: 15px;"/>
     </td>
     <td width="500px" valign="top">
       <h2>🚀 About Me</h2>
